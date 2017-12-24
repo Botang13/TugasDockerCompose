@@ -1,6 +1,8 @@
 # TugasDockerCompose
 Untuk memenuhi tugas kuliah Teori Teknologi Cloud Computing
+
 Tutorial lengkap beserta gambar ada di Tutorial.docx
+
 1. Pertama - tama kita buat dulu sebuah folder, misal namanya Docker. Lokasi folder Docker ini saya letakkan di direktori Downloads
 2. Lalu kita buka terminal (karena saya menggunakan Linux, di windows kalian bisa gunakan Docker Toolbox) dan kita masuk ke direktori folder yang telah kita buat tadi bernama Docker di Downloads dengan cara : cd Downloads/Docker
 3. Seperti yang terlihat di atas saya telah masuk ke direktori Downloads/Docker. Saya mengetikkan perintah ls untuk melihat isi dari folder Docker yaitu ada docker-compose.yml lalu folder index dan file site.conf.
