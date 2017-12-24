@@ -1,2 +1,2 @@
 # TugasDockerCompose
-Untuk memenuhi tugas kuliah Praktik Teknologi Cloud Computing
+Untuk memenuhi tugas kuliah Teori Teknologi Cloud Computing
